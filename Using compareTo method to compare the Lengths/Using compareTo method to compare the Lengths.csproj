@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Using_compareTo_method_to_compare_the_Lengths</RootNamespace>
+  </PropertyGroup>
+
+</Project>
