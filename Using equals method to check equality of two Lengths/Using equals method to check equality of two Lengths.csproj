@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Using_equals_method_to_check_equality_of_two_Lengths</RootNamespace>
+  </PropertyGroup>
+
+</Project>
